@@ -5,4 +5,4 @@ d123 = 5.5598
 e = 'a'
 $f = "a"
 g/h = "abc"
-66Mohakhali = "BRAC University"
+66Mohakhali = "University"
